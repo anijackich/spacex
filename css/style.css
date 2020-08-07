@@ -109,7 +109,7 @@ line-height: 29px;
 .rocket{
     position: absolute;
     right: 0;
-    top: 160px;
+    top: 700px;
     z-index: 99;
     max-width: 300px;
 }
